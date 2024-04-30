@@ -50,3 +50,4 @@ this context problem.
 <details><summary>Hint: </summary>Use an arrow function somewhere in the
 <code>User</code> class definition to make sure that the <code>changeName</code>
 instance method retains its context.</details>
+# aa04-arrow-func-and-context
